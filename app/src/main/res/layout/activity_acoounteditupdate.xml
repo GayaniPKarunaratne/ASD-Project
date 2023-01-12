@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background"
+    android:background="@drawable/wood"
     tools:context=".Acoounteditupdate">
 
     <Button
@@ -171,7 +171,7 @@
         android:layout_marginBottom="8dp"
         android:fontFamily="serif"
         android:text="ADD NEW ACOUNT"
-        android:textColor="#55473d"
+        android:textColor="#000000"
         android:textSize="30sp"
         android:typeface="serif"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -209,7 +209,7 @@
         android:layout_marginBottom="8dp"
         android:text="Wallet"
         android:textAlignment="center"
-        android:textColor="@android:color/black"
+        android:textColor="@color/colorAccent"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
